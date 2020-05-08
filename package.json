@@ -21,5 +21,13 @@
   "dependencies": {
     "express": "^4.16.3",
     "if-env": "^1.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeJohnson99/googlebooks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ColeJohnson99/googlebooks/issues"
+  },
+  "homepage": "https://github.com/ColeJohnson99/googlebooks#readme"
 }
