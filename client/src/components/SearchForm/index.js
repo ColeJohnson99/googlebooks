@@ -22,4 +22,4 @@ const SearchForm = props => {
     )
 }
 
-export default Searchform
+export default SearchForm

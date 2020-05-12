@@ -22,7 +22,8 @@
     "express": "^4.17.1",
     "if-env": "^1.0.4",
     "mongodb": "^3.5.7",
-    "mongoose": "^5.9.12"
+    "mongoose": "^5.9.12",
+    "react": "^16.13.1"
   },
   "repository": {
     "type": "git",
