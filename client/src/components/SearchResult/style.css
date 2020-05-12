@@ -1,0 +1,19 @@
+.card {
+    background-color: grey;
+    border-radius: 10px;
+}
+
+.viewBook {
+    margin-left: 5px;
+    border-radius: 5px;
+}
+
+.search-list {
+    background-color: indigo;
+    border-radius: 15px;
+}
+
+.saveBook {
+    margin-left: 10px;
+    border-radius: 5px;
+}
