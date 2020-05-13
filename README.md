@@ -11,6 +11,7 @@ App Functionality:
 Technologies used:
 
     React
+    Node
     JSX
     Bootstrap CSS
     MongoDB 
